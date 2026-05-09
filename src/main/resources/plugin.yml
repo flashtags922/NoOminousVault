@@ -1,1 +1,4 @@
-
+name: NoOminousVault
+version: 1.0
+main: me.anti.vault.NoOminousVault
+api-version: 1.21
